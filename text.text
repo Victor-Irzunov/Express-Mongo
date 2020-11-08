@@ -1,0 +1,13 @@
+1. npm init  (npm init -y)
+2. npm install express mongoose        //express - поднимает сервер и обрабатывает запросы
+3. npm i -D nodemon
+4. npm i express-handlebars
+
+5. npm run dev
+6. https://materializecss.com/getting-started.html
+
+
+
+
+
+7.npm install materialize-css@next
